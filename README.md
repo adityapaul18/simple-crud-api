@@ -1,7 +1,7 @@
 # simple-crud-api
 this is a simple  api that I made while learning backend dev, it can make basic crud requests in 2 database ,one is a simple object with a single attribute(username) ,another is a multi attribute object(exercise)
 
-### using it
+## using it
 
 clone the repo
 give the mongodb uri string in the .env file(from mongo db console)
