@@ -4,8 +4,11 @@ this is a simple  api that I made while learning backend dev, it can make basic 
 ## using it
 
 clone the repo
+
 give the mongodb uri string in the .env file(from mongo db console)
+
 give command npm install
+
 give command npm start
 
 U can test this  api on postmann or insomnia api testing app and further use it as a backend in yout app by making furtheer more tweeks in this api
